@@ -1,6 +1,9 @@
 # AWS Amplify Next.js CDK Template
 
-This repository contains Infrastructure as Code (IaC) using AWS CDK to deploy a Next.js application to AWS Amplify.
+- This repository contains Infrastructure as Code (IaC) using AWS CDK to deploy a Next.js application to AWS Amplify.
+
+- This template is designed to work with the nextjs15-typescript-ssr-template
+  repository. https://github.com/Lenore8963/nextjs15-typescript-ssr-template
 
 ## Prerequisites
 
